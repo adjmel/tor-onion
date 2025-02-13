@@ -92,6 +92,8 @@ To access the Docker container via SSH, you need to map a different port (since 
     ssh -p 4000 user@localhost
     ```
 
+- ash password : password
+
   This will allow you to access the container's shell through SSH.
 
 ---
