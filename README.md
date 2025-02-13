@@ -1,39 +1,7 @@
 
-### Installation and Usage of Docker, Tor, HTML, and SSH**
+### Installation and Usage of Tor, HTML, and SSH**
 
-#### **1. Download and Install Docker**
-
-Before starting with Docker, you need to install it on your system. Follow these steps:
-
-- **Install Docker**:
-  1. **On Ubuntu/Debian**:
-     ```bash
-     sudo apt-get update
-     sudo apt-get install docker.io
-     ```
-  2. **On CentOS/RHEL**:
-     ```bash
-     sudo yum install docker
-     ```
-  3. **On macOS** and **Windows**:
-     - Download and install Docker Desktop from [docker.com](https://www.docker.com/get-started).
-
-- **Start Docker**:
-  - After installation, make sure Docker is running:
-    ```bash
-    sudo systemctl start docker
-    sudo systemctl enable docker
-    ```
-
-- **Verify Installation**:
-  - Check if Docker is properly installed by running:
-    ```bash
-    docker --version
-    ```
-
----
-
-#### **2. Download and Install Tor Browser**
+#### **1. Download and Install Tor Browser**
 
 To use Tor, you need to install the **Tor Browser**. Here's how:
 
